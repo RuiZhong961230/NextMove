@@ -1,7 +1,7 @@
 import torch.nn as nn
 from torch.nn import init
 
-# 3. Sequential Pattern Mining
+# (c) Transformer-based Trajectory Representation Module (TTRM)
 
 class TransEncoder(nn.Module):
     def __init__(self, config):
