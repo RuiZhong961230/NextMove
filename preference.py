@@ -1,6 +1,6 @@
 from torch import nn
 
-# 1. User Preference Mining
+# (a) Probabilistic User Preference Generation Module (PUPG)
 
 class UserNet(nn.Module):
     def __init__(self, input_dim, output_dim):
