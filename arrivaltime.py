@@ -1,7 +1,7 @@
 import torch
 from torch import nn
 
-# 2. Arrival Time Estimating
+# (b) Self-attention-based Arrival Time Prediction Module (STAP)
 
 class ArrivalTime(nn.Module):
     def __init__(self, config):
