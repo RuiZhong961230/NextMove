@@ -1,6 +1,6 @@
 import torch.nn as nn
 
-# 4. Next Location Prediction
+# (d) Next Location Feature Aggregation Module
 
 class MyFullyConnect(nn.Module):
 
