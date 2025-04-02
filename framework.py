@@ -3,10 +3,10 @@ import torch
 from torch import nn
 
 from embedding import MyEmbedding, PositionalEncoding
-from preference import UserNet                          # 1. User Preference Mining
-from arrivaltime import ArrivalTime                     # 2. Arrival Time Estimating
-from encoder import TransEncoder, LSTMEncoder           # 3. Sequential Pattern Mining
-from fullyconnect import MyFullyConnect                 # 4. Next Location Prediction
+from preference import UserNet          
+from arrivaltime import ArrivalTime              
+from encoder import TransEncoder, LSTMEncoder           
+from fullyconnect import MyFullyConnect                
 
 class MyModel(nn.Module):
     def __init__(self, config):
