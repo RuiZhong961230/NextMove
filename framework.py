@@ -59,7 +59,7 @@ class MyModel(nn.Module):
         if self.config.Encoder.encoder_type == 'lstm':
             encoder_out = self.encoder(lt_embedded)
             
-        combined = encoder_out + lt_embedded  # 这里的 combined 是原文里的 e^seq_n
+        combined = encoder_out + lt_embedded  # e^seq_n
 
         user_embedded = user_embedded[user_x]
 
