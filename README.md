@@ -22,4 +22,4 @@ DOI = {10.3390/math13081232}
 The Traffic Camera data and Mobile Phone data (MP) can be downloaded from https://zenodo.org/records/10836269.
 
 ## Contact
-If you have any questions, please don't hesitate to contact zhongrui[at]iic.hokudai.ac.jp.
+If you have any questions, please don't hesitate to contact 2252119[at]st.shou.edu.cn and zhongrui[at]iic.hokudai.ac.jp.
