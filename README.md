@@ -6,16 +6,16 @@ Point of Interest (POI) recommendation system is a critical tool for enhancing u
 
 ## Citation
 
-@Article{Liu:25,
-AUTHOR = {Liu, Fengyu and Chen, Jinhe and Yu, Jun and Zhong, Rui},
-TITLE = {Next Point of Interest (POI) Recommendation System Driven by User Probabilistic Preferences and Temporal Regularities},
-JOURNAL = {Mathematics},
-VOLUME = {13},
-YEAR = {2025},
-NUMBER = {8},
-ARTICLE-NUMBER = {1232},
-ISSN = {2227-7390},
-DOI = {10.3390/math13081232}
+@Article{Liu:25,  
+AUTHOR = {Liu, Fengyu and Chen, Jinhe and Yu, Jun and Zhong, Rui},  
+TITLE = {Next Point of Interest (POI) Recommendation System Driven by User Probabilistic Preferences and Temporal Regularities},  
+JOURNAL = {Mathematics},  
+VOLUME = {13},  
+YEAR = {2025},  
+NUMBER = {8},  
+ARTICLE-NUMBER = {1232},  
+ISSN = {2227-7390},  
+DOI = {10.3390/math13081232}  
 }
 
 ## Acknowledgments
